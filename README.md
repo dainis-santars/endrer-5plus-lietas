@@ -1,4 +1,4 @@
-# endrer-5plus-lietas
+# Ender 5plus lietas
 
 Creality Ender5 plus ejošās datnes:
 * jēdzīga Firmware
